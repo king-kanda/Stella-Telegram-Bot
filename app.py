@@ -6,7 +6,7 @@ from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 
 # initialize API token - Telegram
-telegram_token = '5630483237:AAHbJxPjShtrh0KXEt8BPhMyLGQDVJyVpuk'
+telegram_token = '3237:yVpuk'
 
 # create an Updater object with the token
 updater = Updater(token=telegram_token, use_context=True)
