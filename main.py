@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler
 import sys
 
 # Initialize API token - Telegram
-telegram_token = '5630483237:AAHbJxPjShtrh0KXEt8BPhMyLGQDVJyVpuk'
+telegram_token = '5###########################k'
 
 # Creating objects to perform a task
 updater = Updater(telegram_token , use_context=True)
