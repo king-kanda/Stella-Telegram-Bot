@@ -1,0 +1,8 @@
+# ignore a specific file
+key.txt
+
+# ignore all files in a directory
+logs/*
+
+# ignore all files with a certain name
+*.tmp
