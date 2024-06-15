@@ -1,5 +1,6 @@
 # ignore a specific file
 key.txt
+.env
 
 # ignore all files in a directory
 logs/*
