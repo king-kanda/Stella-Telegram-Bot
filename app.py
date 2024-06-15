@@ -1,5 +1,5 @@
 import os
-from telegram.ext import Application, CommandHandler
+import telegram
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
